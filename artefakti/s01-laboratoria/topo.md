@@ -5,13 +5,13 @@ This infrastructure is hosted locally using **Oracle VM VirtualBox** and compris
 
 ### Virtual Machine Profiles
 * **`gw` (Gateway Node)**
-  * **vCPUs:** 2 processors[cite: 2]
-  * **Memory:** 3000 MiB RAM[cite: 2]
-  * **Interfaces:** NAT (`enp0s3`), LAN1 (`enp0s8`), LAN2 (`enp0s9`)[cite: 2]
+  * **vCPUs:** 2 processors
+  * **Memory:** 3000 MiB RAM
+  * **Interfaces:** NAT (`enp0s3`), LAN1 (`enp0s8`), LAN2 (`enp0s9`)
 * **`srv` (Internal Server Node)**
-  * **vCPUs:** 2 processors[cite: 3]
-  * **Memory:** 2048 MiB RAM[cite: 3]
-  * **Interfaces:** LAN1 (`enp0s3`)[cite: 3]
+  * **vCPUs:** 2 processors
+  * **Memory:** 2048 MiB RAM
+  * **Interfaces:** LAN1 (`enp0s3`)
 
 
 ## Network Topology Diagram
