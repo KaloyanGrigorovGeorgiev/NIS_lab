@@ -1,0 +1,6 @@
+FUZZ,url,redirectlocation,position,status_code,content_length,content_words,content_lines,content_type,duration,resultfile,Ffufhash
+admin,http://192.168.1.2:8080/admin,,1,404,714,62,1,text/html;charset=utf-8,2.710498ms,,071c51
+config,http://192.168.1.2:8080/config,,5,404,715,62,1,text/html;charset=utf-8,7.806923ms,,071c55
+images,http://192.168.1.2:8080/images,,3,404,715,62,1,text/html;charset=utf-8,9.19981ms,,071c53
+login,http://192.168.1.2:8080/login,,2,404,714,62,1,text/html;charset=utf-8,12.100708ms,,071c52
+api,http://192.168.1.2:8080/api,,4,404,712,62,1,text/html;charset=utf-8,10.992259ms,,071c54
