@@ -1,0 +1,4 @@
+Tue Nov  3 08:36:41 PM EET 2026
+permitrootlogin prohibit-password
+passwordauthentication yes
+kbdinteractiveauthentication no

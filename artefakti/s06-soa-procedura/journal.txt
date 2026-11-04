@@ -1,0 +1,9 @@
+Nov 03 20:52:16 kaloyan-srv-VirtualBox systemd[1]: Reloading ssh.service - OpenBSD Secure Shell server...
+Nov 03 20:52:16 kaloyan-srv-VirtualBox systemd[1]: Reloaded ssh.service - OpenBSD Secure Shell server.
+Nov 03 20:52:16 kaloyan-srv-VirtualBox sshd[8624]: Received SIGHUP; restarting.
+Nov 03 20:52:16 kaloyan-srv-VirtualBox sshd[8624]: Server listening on 0.0.0.0 port 22.
+Nov 03 20:52:16 kaloyan-srv-VirtualBox sshd[8624]: Server listening on :: port 22.
+Nov 03 20:55:54 kaloyan-srv-VirtualBox sshd-session[12154]: Connection closed by authenticating user kaloyan-srv 192.168.1.1 port 60544 [preauth]
+Nov 03 21:01:01 kaloyan-srv-VirtualBox sshd-session[12492]: Accepted publickey for kaloyan-srv from 192.168.1.1 port 46672 ssh2: ED25519 SHA256:Fx+kNXnETL1RjGyK7yg0/QvHFEgRsH6oBJVg5ATyhBg
+Nov 03 21:01:01 kaloyan-srv-VirtualBox sshd-session[12492]: pam_unix(sshd:session): session opened for user kaloyan-srv(uid=1000) by kaloyan-srv(uid=0)
+Nov 03 21:01:02 kaloyan-srv-VirtualBox sshd-session[12492]: pam_unix(sshd:session): session closed for user kaloyan-srv
