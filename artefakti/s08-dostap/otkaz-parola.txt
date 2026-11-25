@@ -1,0 +1,1 @@
+[31m[1mSession has expired. Login again with 'kcadm.sh config credentials'[21m[39m[0m

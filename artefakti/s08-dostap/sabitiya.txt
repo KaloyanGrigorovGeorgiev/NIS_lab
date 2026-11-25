@@ -1,0 +1,16 @@
+2026-11-25 21:17:45  LOGIN_ERROR  not_allowed  -  h08-test  127.0.0.1
+2026-11-25 21:13:25  LOGIN  -  staff1  h08-test  127.0.0.1
+2026-11-25 21:08:55  LOGIN_ERROR  resolve_required_actions  admin2  h08-test  127.0.0.1
+2026-11-25 21:07:37  LOGIN_ERROR  resolve_required_actions  admin2  h08-test  127.0.0.1
+2026-11-25 21:05:03  LOGIN_ERROR  client_not_found  -  h08-test  127.0.0.1
+2026-11-25 21:01:03  LOGIN_ERROR  client_not_found  -  h08-test  127.0.0.1
+2026-11-25 20:57:38  LOGIN_ERROR  user_temporarily_disabled  testuser  account-console  192.168.1.1
+2026-11-25 20:57:30  USER_DISABLED_BY_TEMPORARY_LOCKOUT  -  -  -  192.168.1.1
+2026-11-25 20:57:30  LOGIN_ERROR  invalid_user_credentials  testuser  account-console  192.168.1.1
+2026-11-25 20:57:21  LOGIN_ERROR  invalid_user_credentials  testuser  account-console  192.168.1.1
+2026-11-25 20:57:15  LOGIN_ERROR  invalid_user_credentials  testuser  account-console  192.168.1.1
+2026-11-25 20:57:09  LOGIN_ERROR  invalid_user_credentials  testuser  account-console  192.168.1.1
+2026-11-25 20:56:51  LOGIN_ERROR  invalid_user_credentials  testuser  account-console  192.168.1.1
+2026-11-25 20:56:36  CUSTOM_REQUIRED_ACTION_ERROR  expired_code  -  account-console  192.168.1.1
+2026-11-18 23:53:38  CUSTOM_REQUIRED_ACTION_ERROR  expired_code  -  account-console  192.168.1.1
+2026-11-18 23:46:00  LOGIN_ERROR  user_not_found  amin2  account-console  192.168.1.1

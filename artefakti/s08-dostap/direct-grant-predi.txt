@@ -1,0 +1,8 @@
+ИЗДАДЕН ТОКЕН (първите 40 знака): eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwi...
+  iss                  http://127.0.0.1:8080/realms/powergrid
+  azp                  h08-test
+  preferred_username   staff1
+  realm_access         {'roles': ['analysts', 'default-roles-powergrid', 'offline_access', 'uma_authorization']}
+  iat                  1795634004
+  exp                  1795634304
+  валиден (секунди)     300
